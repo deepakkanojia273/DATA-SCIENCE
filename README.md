@@ -1,2 +1,2 @@
 # DATA-SCIENCE
-All the contents related to data science projects and some assignments based on that.
+All the contents related to data sets used for implimentation.
